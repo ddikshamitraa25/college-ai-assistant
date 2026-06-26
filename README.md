@@ -106,7 +106,6 @@ college-ai-assistant/
 └── screenshots/
 ```
 
-> *(Update the filenames if your project structure is different.)*
 
 ---
 
